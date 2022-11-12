@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667852968 source:c:\users\user\onedrive\desktop\teampro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
