@@ -16,6 +16,7 @@ void main(){
     float rate[6]={0,825.526,793.775,544.29,326.58,498.938};
     float area_planted,abnormal_area,area_grown,estim_profit;
     int disease,dis; //disease=disease condition ,dis=user enter disease
+	printf("test 01");
     printf("\n------------------------------------- WELCOME TO FARMER INSTRUCTION INFORMATION SYSTEM --------------------------------------\n\n");
     do{
     printf("* Vegetable Codes as below *\n\n\t01 -: Chilli \" MICH HY 1-2015 \"\n\t02 -: Eggplant \" AMANDA F1 \"\n\t03 -: Beans \" GANNORUWA BIL \"\n\t04 -: Okra \" OKH1 \"\n\t05 -: Tomato \" T245 \"\n\n");
